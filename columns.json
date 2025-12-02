@@ -1,0 +1,1 @@
+{"data_columns": ["gender", "seniorcitizen", "partner", "dependents", "tenure", "phoneservice", "multiplelines", "internetservice", "onlinesecurity", "onlinebackup", "deviceprotection", "techsupport", "streamingtv", "streamingmovies", "contract", "paperlessbilling", "paymentmethod", "monthlycharges", "totalcharges"]}
